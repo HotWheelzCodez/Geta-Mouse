@@ -18,3 +18,13 @@ The images/textures were created by my friend Matthew who also did the voiceline
 
 ## License
 This is an open-source project, you can use it, change it, whatever, just please don't write anything off as your own.
+
+## Gameplay
+### Whack-A-Mole style Battle
+```markdown
+![Whack-A-Mole Battle](https://github.com/HotWheelzCodez/Geta-Mouse/blob/main/assets/thumbnails/battle.png)
+```
+### Boss Battle
+```markdown
+![Whack-A-Mole Battle](https://github.com/HotWheelzCodez/Geta-Mouse/blob/main/assets/thumbnails/bossBattle.png)
+```
