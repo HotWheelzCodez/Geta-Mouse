@@ -11,7 +11,7 @@ bash run.sh
 
 ## Contributions
 ### Raylib
-This project was created with ![Raylib](https://github.com/raysan5/raylib) using C++
+This project was created with [Raylib](https://github.com/raysan5/raylib) using C++
 
 ### Music
 The music and sounds are both all just from the internet, yout.be
