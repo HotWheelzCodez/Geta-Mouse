@@ -86,15 +86,15 @@ Game::Game(const char* title)
 
   // Load music
   // ---------------------------------------------------------------------
-  m_BattleMusic = LoadMusicStream("assets/sounds/battleMusic.wav");
+  m_BattleMusic = LoadMusicStream("assets/sounds/battleMusic.mp3");
   SetMusicVolume(m_BattleMusic, 3.0f);
   PlayMusicStream(m_BattleMusic);
 
-  m_BossBattleMusic = LoadMusicStream("assets/sounds/bossBattleMusic.wav");
+  m_BossBattleMusic = LoadMusicStream("assets/sounds/bossBattleMusic.mp3");
   SetMusicVolume(m_BossBattleMusic, 5.0f);
   PlayMusicStream(m_BossBattleMusic);
 
-  m_MainMenuMusic = LoadMusicStream("assets/sounds/mainMenuMusic.wav");
+  m_MainMenuMusic = LoadMusicStream("assets/sounds/mainMenuMusic.mp3");
   SetMusicVolume(m_MainMenuMusic, 20.0f);
   PlayMusicStream(m_MainMenuMusic);
 
