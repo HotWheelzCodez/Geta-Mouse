@@ -9,7 +9,7 @@ Other than that all you have to do is run the run.sh file
 bash run.sh
 ```
 
-## Contributions
+## Acknowledgements
 ### Raylib
 This project was created with [Raylib](https://github.com/raysan5/raylib) using C++
 
